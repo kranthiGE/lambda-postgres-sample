@@ -2,7 +2,7 @@
 Author: Kranthi Kiran  
 Created On: 29-Mar-2020  
  
-This is a sample lambda function code to fetch items from dynamodb based on 2 input parameters.
+This is a sample lambda function code to fetch items from PostgreSQL based on 2 input parameters.
 a limit to specify the number of items to be pulled and nextKey value to offer pagination
 ***
 ## Getting Setup
